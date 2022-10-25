@@ -16,6 +16,6 @@ class Auth {
 	logOut() {
         console.log('haciendo logout')
 		localStorage.removeItem("auth");
-		window.location.replace("/");
+		window.location.replace("/login_map");
 	}
 }

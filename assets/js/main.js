@@ -39,6 +39,7 @@ function signIn(){
 	signInButton.addEventListener('click', () => {
 		console.log("signInButton clicked");
 	});
+	window.location.replace("/welcome.html");
 }
 
 function signUp(){

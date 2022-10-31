@@ -297,7 +297,7 @@ footer a {
 	place-items: center;
 	margin: 0;
 	padding: 0 24px;
-	background-image: url("/assets/imgs/low_poly.svg");
+	background-image: url("https://github.com/AbelGRubio/login_map/blob/master/assets/imgs/low_poly.svg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	animation: 

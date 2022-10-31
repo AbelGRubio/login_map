@@ -297,7 +297,7 @@ footer a {
 	place-items: center;
 	margin: 0;
 	padding: 0 24px;
-	background-image: url("/assets/imgs/low_poly.svg");
+	background-image: url("/login_map/assets/imgs/low_poly.svg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	animation: 
